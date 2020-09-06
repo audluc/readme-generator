@@ -1,14 +1,16 @@
 
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-MIT-orange.svg)](https://opensource.org/licenses/MIT)
 
-# Readme fclkadhsfl
+# ReadMe Generator
 
 ## Description 
-lajsdflkjfa
+
+It creates a readme file
 ---
 
 ## TableOfContents
+
 undefined
 
 * [Installation](#installation)
@@ -19,11 +21,14 @@ undefined
 * [Questions](#questions)
 ---
 ## Installation
-npm install
 
+```
+npm install
+```
 ---
 ## Usage
-alkdsjf
+
+How are you so great
 
 ---
 ## License 
@@ -32,19 +37,22 @@ alkdsjf
 ---
 
 ## Contributing
-alkdjf
+So good
 
 ---
 
 ## Tests
-undefined
 
+```
+undefined
+```
 ---
 
 ## Questions
+
 undefined
 
 Should you have any questions about the project, contact me directly at [audluc44@gmail.com](mailto:audluc44@gmail.com).
 
-Check out my other repos at [audluc](https://github.com/audluc)
+Check out my other projects at [audluc](https://github.com/audluc)
 

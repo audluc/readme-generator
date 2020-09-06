@@ -2,9 +2,9 @@
 function generateMarkdown(data) {
   return `
 
-[![License](https://img.shields.io/badge/License-${data.license.link}-${data.license.color}.svg)](${data.license.url})
+# Title: ${data.title}
 
-# ${data.title}
+[![Github License](https://img.shields.io/badge/License-${data.license.link}-${data.license.color}.svg)](${data.license.url})
 
 ## Description 
 
@@ -16,7 +16,7 @@ ${data.description}
 ${data.tableofcontents}
 
 * [Installation](#installation)
-* [Usage](#usage)
+* [Usege](#usage)
 * [License](#license)
 * [Contributing](#contributing)
 * [Tests](#tests)
@@ -27,18 +27,22 @@ ${data.tableofcontents}
 \`\`\`
 ${data.installation}
 \`\`\`
+
 ---
-## Usage
+## Useage
 
 ${data.usage}
+[![Github License](https://img.shields.io/badge/License-${data.license.link}-${data.license.color}.svg)](${data.license.url})
 
 ---
 ## License 
-${data.license}
+
+${data.title} is licensed under the ${data.license.name} License
 
 ---
 
 ## Contributing
+
 ${data.contributing}
 
 ---
@@ -48,6 +52,7 @@ ${data.contributing}
 \`\`\`
 ${data.tests}
 \`\`\`
+
 ---
 
 ## Questions
