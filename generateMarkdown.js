@@ -2,17 +2,16 @@
 function generateMarkdown(data) {
   return `
 
-# Title: ${data.title}
-
 [![Github License](https://img.shields.io/badge/License-${data.license.link}-${data.license.color}.svg)](${data.license.url})
 
-## Description 
+# Title: ${data.title}
 
+
+## Description 
 ${data.description}
 ---
 
 ## TableOfContents
-
 ${data.tableofcontents}
 
 * [Installation](#installation)
@@ -23,40 +22,29 @@ ${data.tableofcontents}
 * [Questions](#questions)
 ---
 ## Installation
-
-\`\`\`
 ${data.installation}
-\`\`\`
-
 ---
 ## Useage
-
 ${data.usage}
 [![Github License](https://img.shields.io/badge/License-${data.license.link}-${data.license.color}.svg)](${data.license.url})
 
 ---
 ## License 
-
 ${data.title} is licensed under the ${data.license.name} License
 
 ---
 
 ## Contributing
-
 ${data.contributing}
 
 ---
 
 ## Tests
-
-\`\`\`
 ${data.tests}
-\`\`\`
 
 ---
 
 ## Questions
-
 ${data.questions}
 
 Should you have any questions about the project, contact me directly at [${data.email}](mailto:${data.email}).

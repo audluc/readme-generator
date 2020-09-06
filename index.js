@@ -3,6 +3,7 @@ const fs = require("fs");
 const inquirer = require("inquirer");
 const generateMarkDown = require("./generateMarkdown");
 
+//questions for users
 const questions = [
   {
     type: "input",
