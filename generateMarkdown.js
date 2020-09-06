@@ -26,7 +26,6 @@ ${data.installation}
 ---
 ## Useage
 ${data.usage}
-[![Github License](https://img.shields.io/badge/License-${data.license.link}-${data.license.color}.svg)](${data.license.url})
 
 ---
 ## License 
