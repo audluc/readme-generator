@@ -12,17 +12,17 @@ The README project was created to enable the author of a repo to produce a quali
 undefined
 
 * [Installation](#installation)
-* [Usege](#usage)
+* [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
 * [Tests](#tests)
 * [Questions](#questions)
 ---
 ## Installation
-Use the npm install for questions. 
+To begin you will need to clone the repo into your Github. Next, `npm init` to install the dependencies and lastly `node index.js` to run the series of questions.
 ---
-## Useage
-Should you have any questions, please contact me at audluc44@gmail.com.
+## Usage
+Should you have any questions, please contact me at audluc44@gmail.com
 
 ---
 ## License 
@@ -31,7 +31,7 @@ README Generator is licensed under the MIT License
 ---
 
 ## Contributing
-Enjoy the project are create great README's.
+Have fun and create a great README.
 
 ---
 

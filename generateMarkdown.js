@@ -14,7 +14,7 @@ ${data.description}
 ${data.tableofcontents}
 
 * [Installation](#installation)
-* [Usege](#usage)
+* [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
 * [Tests](#tests)
@@ -23,7 +23,7 @@ ${data.tableofcontents}
 ## Installation
 ${data.installation}
 ---
-## Useage
+## Usage
 ${data.usage}
 
 ---
